@@ -124,10 +124,3 @@ Contributions are always welcome! If you'd like to contribute to Wanderlust, ple
     ```
 7.  **Open a Pull Request** from your forked repository to the `main` branch of the original repository. Describe your changes in detail.
 
-## 📄 License Information
-
-This project currently does not have a specified license. Please contact the owner, sourya-guha, for licensing details or before using this project for commercial purposes.
-
-## 🙏 Acknowledgments
-
-*   Special thanks to [Unsplash](https://unsplash.com/) for providing beautiful, high-quality images used as placeholders in the sample data.
